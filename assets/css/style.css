@@ -9,12 +9,12 @@ body{
 
 header{
     position: fixed;
-    background-color: #3322AA;
+    background-color: #150674;
     color: white;
     text-align: center;
     top: 0px;
     left: 0px;
-    border: 5px solid #73ebeb;
+    border: 5px solid #abf0f0;
     width: 100%;
     height:100px;
     box-sizing: border-box;
@@ -24,6 +24,9 @@ h1{
     position: relative;
     display: inline;
     top: 20px;
+}
+ul{
+    float: right;
 }
 li{
     position: relative;
